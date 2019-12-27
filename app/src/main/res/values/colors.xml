@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="grey">#292727</color>
+    <color name="purple">#734F88</color>
+    <color name="purplepressed">#A183C0</color>
+    <color name="white">#fff</color>
+    <color name="cardbackground">#EAF0EA</color>
+    <color name="greyoverlay">#A0A0A0</color>
+    <color name="wrongcolor">#D86D6D</color>
+
+</resources>
